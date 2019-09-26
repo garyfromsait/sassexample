@@ -1,5 +1,8 @@
-@import './general.scss';
-
-h1 {
-    color: blue;
+body {
+    color: rgb(32, 32, 245);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
 }
