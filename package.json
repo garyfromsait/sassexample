@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "sass": "node-sass ./scss/app.scss ./css/app.css"
+    },
+    "dependencies": {
+        "node-sass": "^4.12.0"
+    }
+}
